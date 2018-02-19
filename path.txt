@@ -1,0 +1,33 @@
+D:\saravanaAG v2.0\typescript
+D:\saravanaAG v2.0\typescript\typescripts.ts
+D:\saravanaAG v2.0\typescript
+D:/saravanaAG v2.0
+
+D:\saravanaAG v2.0\typescript
+http://nlp.stanford.edu:8080/corenlp/process
+
+D:\saravanaAG v2.0\angular2\Globalinsurance
+
+cd D:\saravanaAG v2.0\angular2\Globalinsurance
+
+D:\saravanaAG v2.0\angular2
+
+ 
+cd D:\saravanaAG v2.0\angular2\Globalinsurance>npm run build
+
+
+$ npm install @agm/core --save
+$ npm install @types/googlemaps --save-dev
+
+D:\saravanaAG v2.0\angular2\ClaimServiceProvider
+
+
+
+
+
+D:\saravanaAG v2.0\Angular4\GlobalInsurence
+ >npm install 
+
+npm run build
+npm start
+
